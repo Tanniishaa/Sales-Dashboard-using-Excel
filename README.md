@@ -1,4 +1,4 @@
-# Sales-Dashborad
+# Sales-Dashboard using Excel
 A comprehensive Sales Dashboard built in Microsoft Excel to analyze business performance across multiple dimensions such as revenue, profit, customer segments, regions, and product categories.
 
 # Objectives
